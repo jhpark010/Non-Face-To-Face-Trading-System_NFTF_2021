@@ -1,5 +1,7 @@
 ## [2021.04~2021.06] 비 대면 중고 거래 시스템 (Spring + MyBatis 프레임워크 기반)
 
+* 발표 영상 : https://youtu.be/QawdIEOy4qo
+
 * 개발 기간 : 2021.04 ~ 2021.06 (약 3개월)
 
 * 프로젝트 명 : 비 대면 중고 거래 시스템(NFTF;Non Face To Face Trading System)
